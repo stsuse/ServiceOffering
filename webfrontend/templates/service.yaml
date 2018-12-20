@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ include "webfrontend.fullname" . }}
+  labels:
+    app: {{ include "webfrontend.name" . }}
+    chart: {{ include "webfrontend.chart" . }}
+    release: {{ .Release.Name }}
+    heritage: {{ .Release.Service }}
+spec:
+  type: {{ .Values.service.type }}
+  ports:
+    - port: {{ .Values.service.port }}
+      targetPort: http
+      protocol: TCP
+      name: http
+  selector:
+    app: {{ include "webfrontend.name" . }}
+    release: {{ .Release.Name }}

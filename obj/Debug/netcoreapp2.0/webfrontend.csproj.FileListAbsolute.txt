@@ -1,0 +1,11 @@
+C:\VSTS\aspnet\webfrontend\bin\Debug\netcoreapp2.0\webfrontend.deps.json
+C:\VSTS\aspnet\webfrontend\bin\Debug\netcoreapp2.0\webfrontend.runtimeconfig.json
+C:\VSTS\aspnet\webfrontend\bin\Debug\netcoreapp2.0\webfrontend.runtimeconfig.dev.json
+C:\VSTS\aspnet\webfrontend\bin\Debug\netcoreapp2.0\webfrontend.dll
+C:\VSTS\aspnet\webfrontend\bin\Debug\netcoreapp2.0\webfrontend.pdb
+C:\VSTS\aspnet\webfrontend\obj\Debug\netcoreapp2.0\webfrontend.csprojResolveAssemblyReference.cache
+C:\VSTS\aspnet\webfrontend\obj\Debug\netcoreapp2.0\webfrontend.csproj.CoreCompileInputs.cache
+C:\VSTS\aspnet\webfrontend\obj\Debug\netcoreapp2.0\webfrontend.AssemblyInfoInputs.cache
+C:\VSTS\aspnet\webfrontend\obj\Debug\netcoreapp2.0\webfrontend.AssemblyInfo.cs
+C:\VSTS\aspnet\webfrontend\obj\Debug\netcoreapp2.0\webfrontend.dll
+C:\VSTS\aspnet\webfrontend\obj\Debug\netcoreapp2.0\webfrontend.pdb
